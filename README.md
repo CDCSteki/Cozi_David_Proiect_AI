@@ -16,8 +16,8 @@ A complete machine learning pipeline for predicting house prices in Ames, Iowa, 
 
 **Option A: With Git**
 ```bash
-git clone <repository-url>
-cd 
+git clone https://github.com/CDCSteki/housePricingML.git
+cd housePricingMl
 ```
 
 **Option B: Without Git**
