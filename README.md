@@ -108,7 +108,7 @@ The app will open automatically in your browser at `http://localhost:8501`
    - Price per square foot
    - Contextual insights (new construction, premium neighborhood)
 
-## 🔬 Technical Details
+## Technical Details
 
 ### Data Processing Pipeline
 
