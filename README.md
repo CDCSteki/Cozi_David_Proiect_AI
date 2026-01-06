@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Option 1: Full Pipeline (EDA + Modeling)
+### Option A: Full Pipeline (EDA + Modeling)
 
 ### Step 1: Launch Jupyter Notebook (for running analysis)
 
@@ -55,7 +55,7 @@ jupyter notebook
 ```
 This will open Jupyter in your browser where you can access the notebooks.
 
-#### Step 2: Run Exploratory Data Analysis
+### Step 2: Run Exploratory Data Analysis
 
 **Instructions:**
 
@@ -67,7 +67,7 @@ This will open Jupyter in your browser where you can access the notebooks.
 - Cleaned dataset in `data/cleaned/`
 - Visualizations in `plots/eda/`
 
-#### Step 3: Train Models
+### Step 3: Train Models
 
 **Instructions:**
 
@@ -80,7 +80,7 @@ This will open Jupyter in your browser where you can access the notebooks.
 - Performance metrics in `data/results/`
 - Comparison plots in `plots/model_comp/`
 
-### Option 2: Use Pre-trained Model (Quick Start)
+### Option B: Use Pre-trained Model (Quick Start)
 
 If models are already trained, skip to the web app:
 
