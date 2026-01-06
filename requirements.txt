@@ -1,0 +1,17 @@
+# Core Data Science Libraries
+pandas
+numpy
+scipy
+# Visualization Libraries
+matplotlib
+seaborn
+# Machine Learning Libraries
+scikit-learn
+xgboost
+lightgbm
+#Model Persistence
+joblib
+# Web App Framework
+streamlit
+# Jupyter notebooks
+notebook

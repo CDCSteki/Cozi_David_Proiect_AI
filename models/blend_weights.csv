@@ -1,0 +1,2 @@
+Ridge,SVR,GradientBoosting,XGBoost,LightGBM,RandomForest
+0.2,0.2,0.15,0.2,0.2,0.05
